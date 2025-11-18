@@ -26,6 +26,9 @@
         <tags></tags>
         <webdriver.base.url></webdriver.base.url>
 
+        <sonar.organization>aaronledez24</sonar.organization>
+
+
 
     </properties>
 
